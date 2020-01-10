@@ -1,0 +1,41 @@
+body {
+  background-color: #f6f4f2;
+  font-family: "Roboto", sans-serif;
+
+}
+body nav {
+  background-color: #585d5e;
+}
+body nav .nav-logo {
+  height: 60px;
+  width: auto;
+}
+
+body h1 {
+  text-align: center;
+}
+
+body .ph1 {
+  overflow: hidden;
+  height: 450px;
+  width: auto;
+}
+body .ph1 .img-h {
+  height: auto;
+  width: 100%;
+}
+body .ph1 .img-w {
+  height: 100%;
+  width: auto;
+}
+body .img-up-100 {
+  transform: translate(0, -100px);
+}
+body .img-up-150 {
+  transform: translate(0, -150px);
+}
+body .img-up-250 {
+  transform: translate(0, -250px);
+}
+
+/*# sourceMappingURL=style_carousel.css.map */
